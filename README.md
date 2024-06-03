@@ -1,6 +1,4 @@
 # Student-Exam-Score-Analysis
-## Student Exam Score Data Analysis Summary
-
 ### Project Overview
 The Student Exam Score Data Analysis project was conducted to examine the performance and factors influencing student exam scores. This analysis was performed using Jupyter Notebook, utilizing Python's data science libraries for data exploration, cleaning, visualization, and statistical analysis.
 
